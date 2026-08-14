@@ -1,3 +1,5 @@
-a65865c1198e3ce7cfdd3b9afbbb0a77  ./run.sh
-c533eaec8f2c0c7f155083eb647cf90b  ./zip/img.zip
+a15a04d536c3709764f31a4ee9d357bb  ./run.sh
+e70320937e284ac8fcb6cfabdfbaa9e6  ./zip/img.zip
 6d8a8760e74a523c6f815a89833ab72b  ./zip/font.zip
+c7e9bccbed5a8e50ffc55b38245fd534  ./model/C5_logo_PLA_17m45s.gcode.3mf
+bcea76b88af44ff9ed00b474d0e9ac7a  ./model/C5_3DBenchy_PLA_54m55s.gcode.3mf
